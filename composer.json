@@ -1,0 +1,18 @@
+{
+	"name": "cloud/password-processor",
+	"type": "library",
+	"description": "password processor can encrypt/validate password and generate a random password",
+	"license": "proprietary",
+	"authors": [
+            {
+                "name": "cloud",
+                "email": "cloud@be-yond.com.tw",
+                "homepage": "http://www.be-yond.com.tw"
+            }
+	],
+	"autoload": {
+            "psr-4": {
+                "Password\\Processor\\": "src"
+            }
+	}
+}
