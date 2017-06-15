@@ -6,7 +6,7 @@ namespace Password\Processor\Encryption;
  * PHP passwordHash encrypt & decrypt
  * @author Cloud
  */
-class PasswordHash implements \Password\Processor\EncryptionInterface
+class PasswordHash implements EncryptionInterface
 {
     /**
      * 加密 (使用password_hash)
