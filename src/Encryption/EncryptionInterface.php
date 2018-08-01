@@ -1,5 +1,5 @@
 <?php
-namespace Password\Processor\Encryption;
+namespace Cloud\Password\Processor\Encryption;
 
 /**
  * Encryption Interface

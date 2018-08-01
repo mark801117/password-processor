@@ -1,5 +1,5 @@
 <?php
-namespace Password\Processor;
+namespace Cloud\Password\Processor;
 
 /**
  * Description of PasswordCreator
